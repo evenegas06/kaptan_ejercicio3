@@ -1,0 +1,1 @@
+### Las instrucciones y configuración inicial requerida se detalla en un archivo README dentro de cada uno de los proyectos (Laravel y React)
